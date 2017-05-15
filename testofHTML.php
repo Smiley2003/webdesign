@@ -1,1 +1,3 @@
-<p>This is my include file</p>
+<?php
+echo "My first PHP script!";
+?>
